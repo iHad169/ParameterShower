@@ -1,0 +1,9 @@
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\bin\Debug\ParameterShower.exe.config
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\bin\Debug\ParameterShower.exe
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\bin\Debug\ParameterShower.pdb
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.csprojAssemblyReference.cache
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.Form1.resources
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.Properties.Resources.resources
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.csproj.GenerateResource.cache
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.exe
+C:\Users\loaclhost\source\repos\ParameterShower\ParameterShower\obj\Debug\ParameterShower.pdb
